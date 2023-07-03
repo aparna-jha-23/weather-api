@@ -1,3 +1,12 @@
+
+![Screenshot (104)](https://github.com/aparna-jha-23/weather-api/assets/121332698/5cba3319-b39a-4917-9a68-452a7039a51e)
+
+![Screenshot (105)](https://github.com/aparna-jha-23/weather-api/assets/121332698/c59ea2da-eebd-4530-a810-fc9c71977351)
+
+
+This is a simple weather app made using OpenWeatherMap API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
